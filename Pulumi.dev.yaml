@@ -1,0 +1,4 @@
+encryptionsalt: v1:LuQJrJlZ06c=:v1:3AMpLm3EGK92WP3L:RfiUNIV7q6pl/yntmhhMQgiSxzZkkg==
+config:
+  aws:profile: gloria-iam-user-dev
+  aws:region: us-east-1
